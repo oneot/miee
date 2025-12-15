@@ -1,4 +1,4 @@
-🚀 MIEE Agenthon 개발환경 셋팅 가이드
+# 🚀 MIEE Agenthon 개발환경 셋팅 가이드
 
 본 문서는 MIEE Agenthon 참가자를 위한 개발환경 셋업 매뉴얼입니다.
 Mac 환경 기준으로 작성되었으며,
